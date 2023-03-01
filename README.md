@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm Development Lead for all things PHP at [Dotdigital](https://dotdigital.com).
+
 <!--
 **sta1r/sta1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
